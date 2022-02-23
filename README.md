@@ -2,7 +2,7 @@
 20220223 DevOps
 
 ## 해야할 일
-- Git Commit하기
-- Git Push하기
+- 1.Git Commit하기
+- 2.Git Push하기
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
