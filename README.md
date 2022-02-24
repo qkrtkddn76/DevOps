@@ -13,8 +13,14 @@ git config --global user.name "Your Name"
 ```
 
 ## 이슈1 헬프 답
-- test
-- 답 2
+- 
+- 
 
 ## Jenkins에서 커버리지 표현하기
+### Coverage 설치
+- 빋르  > Execute Windows batch command
+ coverage run -m unittest discover
+ coverage xml -o coverage.xml
 ### Cobertura 플러그인 설치
+- 빌드 후 조치 > Publish Cobeertura Coverage report
+  **/coverage.xml
