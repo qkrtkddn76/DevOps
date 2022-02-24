@@ -7,4 +7,4 @@ class test_calc(unittest.TestCase):
         self.assertEqual(10, calc.sum(3, 7))
 
     def test_minus(self):
-        self.assertEqual(5, calc.minus(10, 5))
+        self.assertEqual(4, calc.minus(10, 5))
