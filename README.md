@@ -15,3 +15,6 @@ git config --global user.name "Your Name"
 ## 이슈1 헬프 답
 - test
 - 답 2
+
+## Jenkins에서 커버리지 표현하기
+### Cobertura 플러그인 설치
